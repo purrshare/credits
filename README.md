@@ -8,4 +8,4 @@ cozmogm (main developer behind <a href="https://github.com/purrshare/purrfront">
 <br>
 corgi (previous purrshare.net domain owner, could not find their github)
 <br>
-<a href="https://github.com/razzle64">razzle64</a> (reviving purrshare.net)
+<a href="https://github.com/razzle64">razzle64</a> (reviving purrshare project)
